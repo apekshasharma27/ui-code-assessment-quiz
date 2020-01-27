@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
+
+
+.questionCockpitStyle
+{
+  font-family: 'Montserrat', sans-serif;
+  width:70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  margin-top:5rem;
+}
+
+.questionStyle
+{
+  font-weight: 600;
+  width:70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.radioStyle
+{
+  display:block;
+  padding:.2rem;
+  margin-left: 9.5rem;
+
+}
+
+.textBoxStyle
+{
+  padding:.4rem;
+  width:15rem;
+  margin-left: 10rem;
+}
+
+.buttonStyle
+{
+  margin-top:1rem;
+  background-color: #1E70DD;
+  color:#fff;
+  border: none;
+  padding:.5rem 1rem;
+  font-family: 'Montserrat', sans-serif;
+  margin-left:10rem;
+}
+
+.summaryStyle
+{
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.summaryResultStyle
+{
+  font-weight: 600;
+  margin-left:.2rem;
+}
+
+.restartButtonStyle
+{
+  margin-top:1rem;
+  background-color: #1E70DD;
+  color:#fff;
+  border: none;
+  padding:.5rem 1rem;
+  font-family: 'Montserrat', sans-serif;
+
+}
